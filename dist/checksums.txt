@@ -1,0 +1,4 @@
+10debbfc583b6166e106581ef82531f7e230c8d7f09c6bed5155aa5173331fa0  go-stag_v0.0.0-next_Darwin_i386.tar.gz
+5b1590cba0ab1844f4b97c196c1b9d580b44d5e93dee8a8eb4f393f53633d119  go-stag_v0.0.0-next_Linux_i386.tar.gz
+4db6734e3347a36f3a9fd60705bf7acfa72ab3112e6c9d2bf82dffa0583a60cb  go-stag_v0.0.0-next_Linux_x86_64.tar.gz
+83edeb58e52637d91523e2fb14083ea5192fe7055ec110c1ae2244b8d17e9f5e  go-stag_v0.0.0-next_Darwin_x86_64.tar.gz
